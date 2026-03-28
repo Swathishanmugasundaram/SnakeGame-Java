@@ -68,4 +68,4 @@ A classic Snake Game built using Java Swing with modern features like sound effe
 
 ## 👩‍💻 Author
 
-Swathi Shanmugam
+Swathi Shanmugasundaram
