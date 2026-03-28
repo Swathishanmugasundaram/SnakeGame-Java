@@ -48,8 +48,13 @@ A classic Snake Game built using Java Swing with modern features like sound effe
 ## 📸 ScreenShots
 
 ### 🟢 Start Menu
+![Start Menu](menu.png)
 
+### 🎮 Gameplay
+![Gameplay](gameplay.png)
 
+### 💀 Game Over
+![Game Over](gameover.png)
 
 ---
 
